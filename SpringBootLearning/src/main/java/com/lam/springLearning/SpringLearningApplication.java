@@ -1,13 +1,13 @@
-package com.elas.SpringBootLearning;
+package com.lam.springLearning;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootLearningApplication {
+public class SpringLearningApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootLearningApplication.class, args);
+		SpringApplication.run(SpringLearningApplication.class, args);
 	}
 
 }
